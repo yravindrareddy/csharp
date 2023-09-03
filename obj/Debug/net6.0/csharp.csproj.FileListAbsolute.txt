@@ -1,0 +1,15 @@
+/home/yravindra/csharp/bin/Debug/net6.0/csharp
+/home/yravindra/csharp/bin/Debug/net6.0/csharp.deps.json
+/home/yravindra/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/home/yravindra/csharp/bin/Debug/net6.0/csharp.dll
+/home/yravindra/csharp/bin/Debug/net6.0/csharp.pdb
+/home/yravindra/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/home/yravindra/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/yravindra/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/home/yravindra/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/home/yravindra/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/home/yravindra/csharp/obj/Debug/net6.0/csharp.dll
+/home/yravindra/csharp/obj/Debug/net6.0/refint/csharp.dll
+/home/yravindra/csharp/obj/Debug/net6.0/csharp.pdb
+/home/yravindra/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
+/home/yravindra/csharp/obj/Debug/net6.0/ref/csharp.dll
